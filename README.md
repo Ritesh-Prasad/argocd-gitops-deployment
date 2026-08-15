@@ -199,9 +199,9 @@ This project can be improved further by adding:
 - Better folder structure using `scripts/` and `.github/workflows/`
 - A production-grade sample application deployment
 
-## Why This Project Matters
+## Project Purpose
 
-This repository is a strong portfolio project for DevOps, Cloud, and System Administration roles because it combines AWS, Kubernetes, ArgoCD, Helm, and automation into one hands-on workflow. It demonstrates practical knowledge of infrastructure provisioning, GitOps deployment, access management, and cloud resource cleanup.
+This project provides a practical workflow for provisioning a Kubernetes cluster on AWS and deploying applications through ArgoCD. It combines kOps, Kubernetes, Helm, Shell scripting, and GitOps practices to automate cluster setup, application deployment, access, and cleanup.
 
 ## Author
 
